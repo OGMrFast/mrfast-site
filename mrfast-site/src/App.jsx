@@ -203,7 +203,7 @@ const HomePage = ({ setCurrentPage }) => {
               },
               {
                 title: 'Local Expert',
-                desc: "I live in Ponte Vedra. I know your customers because they're my neighbors.",
+                desc: "I live in Northeast Florida. I know your customers because they're my neighbors.",
                 icon: '📍',
                 number: '02'
               },
